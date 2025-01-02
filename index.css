@@ -1,0 +1,12 @@
+.col-2{
+    background-color: blue;
+    text-align: center;
+    height: 10vh;
+    margin: 10px;
+}
+.col-1{
+    background-color: chartreuse;
+    text-align: center;
+    height: 10vh;
+    margin: 10px;
+}
